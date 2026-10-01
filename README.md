@@ -1,6 +1,6 @@
 # 👋 Hi, I'm MeteorOfTime!
 
-I'm a coding and gaming enthusiast. I love exploring programming languages, building SMALL projects for fun, and playing games when I have free time 🎮.
+I'm a coding and gaming enthusiast. I love exploring programming languages, building small projects for fun, and playing games when I have free time 🎮.
 
 ## 🛠️ Skills & Interests
 
